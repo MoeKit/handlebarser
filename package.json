@@ -1,0 +1,7 @@
+{
+    "name": "handlebarser",
+    "version": "1.3.0",
+    "spm": {
+        "main": "index.js"
+    }
+}
